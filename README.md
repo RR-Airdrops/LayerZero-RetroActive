@@ -4,32 +4,32 @@
 Recommended Volume $100 - $10000
 
 ➡️ Bridge : https://www.bungee.exchange/
-➖ Make Volume $100 - $500 ( Medium ) - $1000+ ( High )
-➖ Bridge 10 Transaction / Month
-➖ Bridge Multichain
+1. Make Volume $100 - $500 ( Medium ) - $1000+ ( High )
+2. Bridge 10 Transaction / Month
+3. Bridge Multichain
 
 ➡️ Bridge : https://jumper.exchange/
-➖ Make Volume $100 - $1000
-➖ Bridge 10x Every Month
-➖ Bridge Multichain
+1. Make Volume $100 - $1000
+2. Bridge 10x Every Month
+3. Bridge Multichain
 
 ➡️ Bridge : https://www.layerswap.io/
-➖ Bridge ETH to Another Network
-➖ Bridge 5x - 10x Every Month
-➖ Per Bridge $10 - $50
+1. Bridge ETH to Another Network
+2. Bridge 5x - 10x Every Month
+3. Per Bridge $10 - $50
 
 ➡️ Link : https://app.rhino.fi/
-➖ Swap 5x Every Month
-➖ Bridge 5x Every Month 
-➖ Multichain Swap & Bridge
-➖ Add Liquidity ETH / Matic
-➖ Make Volume $100 - $1000
+1. Swap 5x Every Month
+2. Bridge 5x Every Month 
+3. Multichain Swap & Bridge
+4. Add Liquidity ETH / Matic
+5. Make Volume $100 - $1000
 
 ➡️ Link : https://cbridge.celer.network/
-➖ Bridge Asset To Multichain
-➖ Bridge 5x - 10x Every Month
-➖ Transfer NFT to Another Network
-➖ Done
+1. Bridge Asset To Multichain
+2. Bridge 5x - 10x Every Month
+3. Transfer NFT to Another Network
+4. Done
 
 # TASK 2
 Recommended Volume $100 - $10000
